@@ -1,2 +1,1 @@
-# csm-c-last-number-attendance
-csm c attendence
+Uses only ending roll numbers.
